@@ -1,5 +1,6 @@
 
 # 👋 Hi, I'm Rossana De Rose 👩‍💻📊  
+
 **Data Analyst | Business Intelligence |**
 
 I'm a data analyst in transition with a strong professional background in **high-responsibility, operational and risk-driven environments**.  
