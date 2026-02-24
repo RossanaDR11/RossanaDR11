@@ -57,7 +57,7 @@ Complex SQL analysis focused on performance and business insights.
 - Italian 🇮🇹 native
 ---
 ## 📬 Contact
-- 💼 LinkedIn: *[linkedin.com/in/rossana-derose]*
+- 💼 LinkedIn: *linkedin.com/in/rossana-derose*
 - 📧 Email: *rossanadero@hotmail.it
 
 
